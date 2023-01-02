@@ -1,4 +1,4 @@
-n=int(input())
+n=int(input("Enter the number: "))
 
 prod=1
 i=1
